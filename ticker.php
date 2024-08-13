@@ -1,4 +1,4 @@
-<!-- 
+
 
 <html>
 <head>
@@ -54,8 +54,8 @@
 </head>
 <body>
 <div class="news blue">
-<span style="background-color:#F60F0F;width:125px;height:50px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in Navrongo <b>1/07/2024 </b> Come and Be a Part of this Noble Cause :) </marquee></span>
+<span style="background-color:#F60F0F;width:125px;height:50px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in Navrongo <b>12/07/2024</b> Come and Be a Part of this Noble Cause </marquee></span>
 </div>
 </body>
 </head>
-</html> -->
+</html>
